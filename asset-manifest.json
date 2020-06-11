@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/michael-scott-memoryGame/static/js/main.5ba5455c.chunk.js",
+    "main.js.map": "/michael-scott-memoryGame/static/js/main.5ba5455c.chunk.js.map",
+    "runtime-main.js": "/michael-scott-memoryGame/static/js/runtime-main.299b8956.js",
+    "runtime-main.js.map": "/michael-scott-memoryGame/static/js/runtime-main.299b8956.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/michael-scott-memoryGame/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e4ed7087.chunk.js": "/michael-scott-memoryGame/static/js/2.e4ed7087.chunk.js",
+    "static/js/2.e4ed7087.chunk.js.map": "/michael-scott-memoryGame/static/js/2.e4ed7087.chunk.js.map",
+    "index.html": "/michael-scott-memoryGame/index.html",
+    "precache-manifest.f0b3c21fc7a8e5e58d48f5a5252f18ff.js": "/michael-scott-memoryGame/precache-manifest.f0b3c21fc7a8e5e58d48f5a5252f18ff.js",
+    "service-worker.js": "/michael-scott-memoryGame/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/michael-scott-memoryGame/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.e4ed7087.chunk.js.LICENSE.txt": "/michael-scott-memoryGame/static/js/2.e4ed7087.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.299b8956.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e4ed7087.chunk.js",
+    "static/js/main.5ba5455c.chunk.js"
+  ]
+}
