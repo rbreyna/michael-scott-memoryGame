@@ -40,8 +40,6 @@ class App extends Component {
 
         var index;
 
-        console.log("You've clicked " + id + "!")
-
         let obj = this.state.characters.find(o => o.id === id);
 
         if (!obj.clicked) {
